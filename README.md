@@ -1,1 +1,1 @@
-some learning notes or others.
+Some learning notes or others.
